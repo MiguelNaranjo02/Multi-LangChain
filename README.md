@@ -1,14 +1,17 @@
 # Generador de Imagen y Audio con Agente IA
 
 Este proyecto combina generación de imágenes con Stable Diffusion, audio con Edge-TTS y agentes LLM usando LangChain. Utiliza Streamlit como interfaz gráfica.
-
+- Miguel Angel Naranjo Joya - 20201020037
+- Handersson Felipe Pacheco Espitia - 20202020053
+- Juan David Martínez Monroy - 20201020043
+- Laura Andrea Riobueno Rincón - 20201020040
 ## Vista previa del proyecto
 
 ### 🧠 Interfaz principal
-![Interfaz principal](images/muestraApp1.png)
+![Interfaz principal](muestraApp1.png)
 
 ### 🎨 Imagen generada y audio narrativo
-![Resultado multimodal](images/muestraApp2.png)
+![Resultado multimodal](muestraApp2.png)
 
 
 ## Requisitos
